@@ -1,6 +1,4 @@
 
-## Welcome to My Profile!
-
 I'm Sakshi, an ambitious Data Engineer currently pursuing a Master of Science in Data Analytics at San Jose State University, with an expected graduation in January 2025. My professional journey began at Schlumberger as an ETL Developer, where I refined my skills in SQL, ETL pipelines, Azure Technologies, and Power BI. I crafted over 50 transformative reports and dashboards, enabling data-driven insights at an organizational level.
 
 🎓 **Education:**
