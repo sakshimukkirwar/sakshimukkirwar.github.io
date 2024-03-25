@@ -1,16 +1,12 @@
 title: Sakshi Mukkirwar
+logo: images/Githubprofile.jpeg
 email: sakshimanish.mukkirwar@sjsu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  MS Data Analytics student at San Jose State University
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- # A brief introduction or tagline
+  A Data Engineer and Analytics enthusiast, currently pursuing masters in Data Analytics at San Jose State University. Welcome to my portfolio!
+baseurl: "" # the subpath of your site, e.g., "/blog" if your site is hosted at "example.com/blog"
+url: "" # the base hostname & protocol for your site, e.g., "http://example.com"
 
 # Build settings
+theme: jekyll-theme-minimal
 markdown: kramdown
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
 
-# Cayman theme specific
-show_downloads: true
-google_analytics: UA-XXXXX-Y # Replace with your Google Analytics tracking ID if you have one.
