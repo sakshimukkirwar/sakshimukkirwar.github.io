@@ -4,15 +4,10 @@ I'm Sakshi, an ambitious Data Engineer currently pursuing a Master of Science in
 
 🎓 ## Education
 
-| Degree | Institution | Year |
-| ------ | ----------- | ---- |
-| Master of Science in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 |
-| Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 |
-
-### Coursework
-- **Data Analytics MSc**: Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning.
-- **Engineering BEng**: Machine Learning, Computer Networks, Data Structures, Object Oriented Programming.
-
+| Degree | Institution | Year | Relevant Coursework |
+| ------ | ----------- | ---- | -----------------------------| 
+| Master of Science in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
+| Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
 
 💼 **Professional Experience:**
 - **ETL Developer, Data Analytics Pillar**, Schlumberger (PITC India), Aug 2021 - Jan 2023.
