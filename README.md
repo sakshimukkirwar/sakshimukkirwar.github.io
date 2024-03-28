@@ -109,9 +109,6 @@ As a devotee of Indian classical and contemporary dance forms, I've enjoyed the 
 <h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px; text-align:center;"> 🔗 Connect with me </h2>
 
 <div style="text-align:center;">
-  <a href="https://www.instagram.com/sakshijainnnn" target="_blank">
-    <img src="images/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
-  </a>
   <a href="https://www.linkedin.com/in/sakshimukkirwar" target="_blank">
     <img src="images/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
   </a>
@@ -120,6 +117,9 @@ As a devotee of Indian classical and contemporary dance forms, I've enjoyed the 
   </a>
   <a href="mailto:sakshimanish.mukkirwar@sjsu.edu">
     <img src="images/email.jpg" alt="Email" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
+  <a href="https://www.instagram.com/sakshijainnnn" target="_blank">
+    <img src="images/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
   </a>
 </div>
 
