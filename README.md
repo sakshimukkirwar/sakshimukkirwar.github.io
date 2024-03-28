@@ -6,8 +6,8 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 | Degree | Institution | Year | Relevant Coursework |
 | ------ | ----------- | ---- | ------------------- |
-| Master of Science in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
-| Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
+| M.S in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
+| B.E in Electronics and Telecommunication | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
 
 
 <h2 style="background-color:#e0f7fa; padding:10px; border-radius:8px;"> My Professional Journey</h2>
