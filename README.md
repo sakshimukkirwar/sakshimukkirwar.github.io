@@ -2,7 +2,7 @@ Hello Everyone! I am Sakshi, an experienced data engineer with a Master’s degr
 
 My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
-<h2 style="background-color:#f0f0f0; padding:10px; border-radius:8px;"> Education</h2>
+<h2 style="background-color:#e0f7fa; padding:10px; border-radius:8px;"> Education</h2>
 
 | Degree | Institution | Year | Relevant Coursework |
 | ------ | ----------- | ---- | ------------------- |
@@ -10,7 +10,7 @@ My academic and professional journey reflects a commitment to excellence and a d
 | Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
 
 
-<h2 style="background-color:#f0f0f0; padding:10px; border-radius:8px;"> My Professional Journey</h2>
+<h2 style="background-color:#e0f7fa; padding:10px; border-radius:8px;"> My Professional Journey</h2>
 
 **Data Science Intern** | *Nuvento Inc. (Remote, US)* | March 2024 - Present
 At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
@@ -21,7 +21,8 @@ I embarked on a data analytics expedition with Business Intelligence Studio at S
 **Business Development Executive Intern** | *Edview (Pune, India)* | Aug 2020 - Nov 2020
 At Edview, I was the bridge between innovative educational products and real-time customers. Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
 
-**Work Experience Highlights**
+
+<h2 style="background-color:#e0f7fa; padding:10px; border-radius:8px;"> Work Experience Highlights </h2>
 
 - 🤝 **Team Collaborator:** At Schlumberger, I was the keystone in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
 
