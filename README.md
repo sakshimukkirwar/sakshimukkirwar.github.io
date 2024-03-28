@@ -5,15 +5,19 @@ Data is the new fuel, and my curiosity drives me to explore different ideass and
 My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
 🎓 **Education**
-|          Degree            |           Institution          |         Year          |          Relevant Coursework                  |
-|          ------            |           -----------          |         ----          |          -------------------                  |
+|          Degree            |           Institution          |         Year          |           Relevant Coursework                  |
+|          ------            |           -----------          |         ----          |           -------------------                  |
 | Master of Science in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
 | Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
 
 💼 **Professional Experience**
-- **ETL Developer, Data Analytics Pillar**, Schlumberger (PITC India), Aug 2021 - Jan 2023.
-  - Designed and implemented ETL pipelines in Azure Data Factory, enhancing business intelligence initiatives.
-  - Developed over 50 strategic Power BI reports and refined 20 dashboards to meet organizational UI/UX standards.
+- **ETL Developer, Data Analytics Pillar**, Schlumberger (Pune, India)                                               Aug 2021 - Jan 2023
+  - Designed and implemented ETL pipelines in Azure Data Factory, creating complex SQL stored procedures, views and scripts for efficient data processing and integration, supporting business intelligence initiatives
+  - Collaborated with cross-functional teams to design a comprehensive tabular model schema encompassing 400+ tables, streamlining data access and enabling rapid report generation through Azure Analysis Tool
+  - Led the development of over 50 strategic Power BI reports with advanced DAX and refined 20 dashboards to meet organizational UI/UX standards, enhancing user engagement by 30%
+  - Crafted requirement understanding documents, interpreted Key Performance Indicators (KPIs), and engaged with stakeholders to deliver clear and concise dashboards
+  - Implemented Agile methodologies to streamline project delivery, utilizing Jira for sprint planning, tracking, and execution
+
 
 🛠 **Technical Skills**
 - **Languages:** Python, C++, SQL
