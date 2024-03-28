@@ -17,15 +17,18 @@ My academic and professional journey reflects a commitment to excellence and a d
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> My Professional Journey</h2>
 
 **Data Science Intern** 
+
 | *Nuvento Inc. (Remote, US)* | March 2024 - Present
 - At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
 
 **ETL Developer, Data Analytics Pillar**
+
 | *Schlumberger (Pune, India)* | Aug 2021 - Jan 2023
 - I embarked on a data analytics expedition with Business Intelligence Studio at Schlumberger, steering through the intricate world of SQL, ETL, data modelings and data visualizations.
 - With SQL as my compass and Power BI as my vessel, I navigated the creation of 50+ strategic  reports and dashboards, enhancing the organization's data-driven decision making by 40%.
 
 **Business Development Executive Intern** 
+
 | *Edview (Pune, India)* | Aug 2020 - Nov 2020
 - At Edview, I was the bridge between innovative educational products and real-time customers.
 - Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
