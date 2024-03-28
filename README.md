@@ -50,7 +50,7 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 **Phishing Website Detection**
 
-![alt text](URL_OF_THE_IMAGE)
+![phishing website detection](images/phishing-detection.jpeg)
 
 _Challenge:_ Phishing attacks are a growing threat. Our mission was to devise a detection system that could spot these deceptive websites.
 
