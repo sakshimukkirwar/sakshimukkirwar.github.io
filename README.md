@@ -50,6 +50,8 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 **Phishing Website Detection**
 
+![alt text](URL_OF_THE_IMAGE)
+
 _Challenge:_ Phishing attacks are a growing threat. Our mission was to devise a detection system that could spot these deceptive websites.
 
 _Action:_ 
@@ -70,13 +72,17 @@ _Result:_ Segmentation speed surged by 25%, assisting in a new era of targeted m
 
 **Cloud Analytics and Data Warehouse Implementation**
 
-  _Challenge:_ A business needed deeper insights into customer behavior.
+  _Challenge:_ Traditional methods of predicting customer behavior were inadequate in the face of complex and voluminous data from various customer interactions with insurance products.
   
   _Action:_ 
-  - A secure AWS cloud environment was established, with Snowflake providing a scalable data warehouse solution.
-  - SQL transformations were crafted and orchestrated using dbt to refine raw data into structured insights. Apache Airflow automated the data workflows, creating directed acyclic graphs (DAGs) to manage dependencies and ensure consistent data availability and integrity.
+ - Established a secure, scalable cloud-based data warehouse on AWS with a private VPC network and Amazon Redshift.
+- Orchestrated ETL processes using Python scripts and Apache Airflow on Google Cloud Composer.
+- Conducted in-depth SQL-based data analyses to identify customer behavior patterns and preferences.
+- Extracted and visualized key performance metrics through Power BI and Tableau, enabling data-driven marketing strategies.
     
-  _Result:_ Our approach led to more timely and reliable data-driven decisions.
+  _Result:_
+  - Streamlined and organized the historical insurance data, allowing for advanced analytics.
+  -  Provided valuable business intelligence that informed targeted marketing efforts, leading to enhanced customer engagement and potential growth areas identification.
 
 - **ChatGPT Twitter Analysis**
   
