@@ -46,31 +46,43 @@ My academic and professional journey reflects a commitment to excellence and a d
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
 
 **Phishing Website Detection**
+
 _Challenge:_ Phishing attacks are a growing threat. Our mission was to devise a detection system that could spot these deceptive websites.
+
 _Action:_ 
 - Machine learning techniques were harnessed to preprocess a substantial dataset, where features indicative of phishing activities were engineered. 
 - A logistic regression model was fine-tuned, focusing on precision and recall to detect subtle phishing indicators. Techniques such as cross-validation and grid search were employed to enhance the model's robustness against real-world phishing threats.
+  
 _Result:_ The model's false positive rates plummeted by 20%, sharpening the system's ability to shield users from online scams.
 
 **Customer Segmentation with Yelp Dataset**
+
 _Challenge:_ Yelp's vast dataset awaited analysis to unveil customer segments.
+
 _Action:_ 
 - The setup of Apache Kafka facilitated the management of Yelp’s high-velocity data stream.
 - A pipeline utilizing Spark Streaming processed the data in real-time, with Databricks serving as the platform for scalable data transformation scripts. Clustering algorithms were applied to segment customer data, involving rigorous feature engineering and hyperparameter tuning to optimize the segmentation model.
+
 _Result:_ Segmentation speed surged by 25%, assisting in a new era of targeted marketing strategies.
 
 **Cloud Analytics and Data Warehouse Implementation**
+
   _Challenge:_ A business needed deeper insights into customer behavior.
+  
   _Action:_ 
   - A secure AWS cloud environment was established, with Snowflake providing a scalable data warehouse solution.
   - SQL transformations were crafted and orchestrated using dbt to refine raw data into structured insights. Apache Airflow automated the data workflows, creating directed acyclic graphs (DAGs) to manage dependencies and ensure consistent data availability and integrity.
+    
   _Result:_ Our approach led to more timely and reliable data-driven decisions.
 
 - **ChatGPT Twitter Analysis**
+  
   _Challenge:_ Unveiling trends in the rapidly growing domain of conversational AI.
+  
   _Action:_
   - Twitter data was processed using MySQL queries and stored procedures to normalize and organize it into a star schema, enhancing query efficiency.
   - Dynamic dashboards were developed in Power BI, featuring slicers and filters for interactive data exploration. Visualizations were designed to elucidate ChatGPT’s growth trends, using Power BI’s data modeling features to extract and present key insights.
+    
   _Result:_ Gained an enhanced understanding of KPIs and reporting efficiency.
 
 🔗 **Connect with me:**
