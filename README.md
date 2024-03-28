@@ -109,20 +109,21 @@ The thrill of trying new things led me to the ice rink, where I've discovered th
 
 <h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px;"> 🔗 Connect with me </h2>
 
-<a href="https://www.instagram.com/sakshijainnnn" target="_blank">
-  <img src="images/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;">
-</a>
 
-<a href="https://www.linkedin.com/in/sakshimukkirwar" target="_blank">
-  <img src="images/linkedin.png" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;">
-</a>
+<h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px; text-align:center;"> 🔗 Connect with me </h2>
 
-<a href="https://github.com/sakshimukkirwar" target="_blank">
-  <img src="images/Github.png" alt="GitHub" width="30" height="30" style="margin-right: 10px;">
-</a>
+<div style="text-align:center;">
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="images/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/sakshimukkirwar" target="_blank">
+    <img src="images/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
+  <a href="https://github.com/sakshimukkirwar" target="_blank">
+    <img src="images/Github.png" alt="GitHub" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="images/email.jpg" alt="Email" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
+</div>
 
-<a href="mailto:sakshimanish.mukkirwar@sjsu.edu">
-  <img src="images/email.jpg" alt="Email" width="30" height="30" style="margin-right: 10px;">
-</a>
-- **LinkedIn:** [sakshimukkirwar](https://www.linkedin.com/in/sakshimukkirwar)
-- **GitHub:** [sakshimukkirwar](https://github.com/sakshimukkirwar)
