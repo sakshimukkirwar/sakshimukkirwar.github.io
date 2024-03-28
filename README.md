@@ -4,6 +4,8 @@ Hello Everyone! I am Sakshi, an experienced data engineer with a Master’s degr
 
 My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
+Find my resume at: [Download My Resume]({{ site.https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_TFiMR-Lf8O/edit?pli=1}})
+
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Education</h2>
 
 | Degree | Institution | Year | Relevant Coursework |
