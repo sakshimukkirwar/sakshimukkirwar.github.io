@@ -124,6 +124,5 @@ The thrill of trying new things led me to the ice rink, where I've discovered th
 <a href="mailto:sakshimanish.mukkirwar@sjsu.edu">
   <img src="URL_TO_EMAIL_ICON_IMAGE" alt="Email" width="30" height="30" style="margin-right: 10px;">
 </a>
-
 - **LinkedIn:** [sakshimukkirwar](https://www.linkedin.com/in/sakshimukkirwar)
 - **GitHub:** [sakshimukkirwar](https://github.com/sakshimukkirwar)
