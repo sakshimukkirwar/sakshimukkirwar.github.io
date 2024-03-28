@@ -94,17 +94,17 @@ _Result:_ Segmentation speed surged by 25%, assisting in a new era of targeted m
     
   _Result:_ Gained an enhanced understanding of KPIs and reporting efficiency.
 
-<h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Off the Grid: My Other Passions </h2>
+<h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Off the Grid: My World Beyond Data!</h2>
 
 Beyond the world of data and analytics, I find rhythm and expression in the art of dance. 
 As a devotee of Indian classical and contemporary dance forms, I've enjoyed the discipline and creativity that comes with it.
 
-When not immersed in world of data, I turn to the serene world of watercolors. Each brushstroke on the canvas is a journey of color and emotion, a quiet to the structured thinking my professional life demands. This is one of my favorite paintings I made till date: ![WC](iimages/wp.jpeg)
+When not immersed in world of data, I turn to the serene world of watercolors. Each brushstroke on the canvas is a journey of color and emotion, a quiet to the structured thinking my professional life demands. This is one of my favorite paintings I made till date: ![WC](images/wp.jpeg)
 
 The thrill of trying new things led me to the ice rink, where I've discovered the joy of ice skating. It’s a challenging yet exhilarating experience that teaches me about balance and the importance of stepping out of my comfort zone. It reminds me that to keep moving forward, sometimes you have to glide on thin ice! :)
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> 🔗 Connect with me </h2>
 
-- **LinkedIn:** []({{ site.https://www.linkedin.com/in/sakshimukkirwar/}})
-- **GitHub:** []({{ https://github.com/sakshimukkirwar}})
+- **LinkedIn:** ({{ site.https://www.linkedin.com/in/sakshimukkirwar/}})
+- **GitHub:** ({{ https://github.com/sakshimukkirwar}})
