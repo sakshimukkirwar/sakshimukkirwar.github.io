@@ -19,7 +19,7 @@ My academic and professional journey reflects a commitment to excellence and a d
 **Data Science Intern** 
 
 | *Nuvento Inc. (Remote, US)* | March 2024 - Present
-- At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
+- At Nuvento Inc., I am currently utilizing my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
 
 **ETL Developer, Data Analytics Pillar**
 
@@ -36,7 +36,7 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
 
-- 🤝 **Team Collaborator:** At Schlumberger, I was the keystone in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
+- 🤝 **Team Collaborator:** At Schlumberger, I played a key role in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
 
 - 💬 **Communication Virtuoso:** Whether it was interpreting complex data into actionable insights or crafting requirement understanding documents, my communication skills were crucial. They allowed me to convey intricate KPIs in a manner that was concise, significantly enhancing decision-making processes.
 
