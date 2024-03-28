@@ -4,25 +4,37 @@ Data is the new fuel, and my curiosity drives me to explore different ideass and
 
 My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
-🎓 **Education**
-|          Degree            |           Institution          |         Year          |           Relevant Coursework                  |
-|          ------            |           -----------          |         ----          |           -------------------                  |
+**Education**
+
+| Degree | Institution | Year | Relevant Coursework |
+| ------ | ----------- | ---- | ------------------- |
 | Master of Science in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
 | Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
 
-💼 **Professional Experience**
-- **ETL Developer, Data Analytics Pillar**, Schlumberger (Pune, India)                                               Aug 2021 - Jan 2023
-  - Designed and implemented ETL pipelines in Azure Data Factory, creating complex SQL stored procedures, views and scripts for efficient data processing and integration, supporting business intelligence initiatives
-  - Collaborated with cross-functional teams to design a comprehensive tabular model schema encompassing 400+ tables, streamlining data access and enabling rapid report generation through Azure Analysis Tool
-  - Led the development of over 50 strategic Power BI reports with advanced DAX and refined 20 dashboards to meet organizational UI/UX standards, enhancing user engagement by 30%
-  - Crafted requirement understanding documents, interpreted Key Performance Indicators (KPIs), and engaged with stakeholders to deliver clear and concise dashboards
-  - Implemented Agile methodologies to streamline project delivery, utilizing Jira for sprint planning, tracking, and execution
+
+**My Professional Journey**
+**Data Science Intern** | *Nuvento Inc. (Remote, US)* | March 2024 - Present
+At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
+
+**ETL Developer, Data Analytics Pillar** | *Schlumberger (PITC India)* | Aug 2021 - Jan 2023
+I embarked on a data analytics expedition with Business Intelligence Studio at Schlumberger, steering through the intricate world of SQL, ETL, data modelings and data visualizations. With SQL as my compass and Power BI as my vessel, I navigated the creation of 50+ strategic  reports and dashboards, enhancing the organization's data-driven decision making by 40%.
+
+**Business Development Executive Intern** | *Edview (Pune, India)* | Aug 2020 - Nov 2020
+At Edview, I was the bridge between innovative educational products and real-time customers. Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
+
+**Work Experience Highlights**
+
+- 🤝 **Team Collaborator:** At Schlumberger, I was the keystone in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
+
+- 🌐 **Networking Aficionado:** My role at Schlumberger wasn't limited to technical prowess; it was also about weaving a network of fruitful relationships. I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
+
+- 💬 **Communication Virtuoso:** Whether it was interpreting complex data into actionable insights or crafting requirement understanding documents, my communication skills were crucial. They allowed me to convey intricate KPIs and dashboards in a manner that was clear and concise, significantly enhancing decision-making processes.
+
+- 👁️‍🗨️ **UI/UX Enhancer:** My quest for excellence led to the refinement of Power BI dashboard interfaces to align with stringent UI/UX standards, which elevated user engagement by 30%, turning raw data into compelling data visualizations that tell a story.
+
+- 🧩 **Problem Solver:** Faced with the challenge of inefficient data integration, I designed ETL pipelines that improved data processing and business intelligence capabilities, demonstrating my problem-solving prowess and my ability to turn data challenges into opportunities for growth.
 
 
-🛠 **Technical Skills**
-- **Languages:** Python, C++, SQL
-- **Tools & Technologies:** Power BI, MySQL, SSMS, Databricks, Tableau, MongoDB, Snowflake, AWS, Spark, Kafka
-- **Libraries:** Numpy, Matplotlib, Seaborn, Pandas, Tensorflow, Keras, SciPy, PyTorch, Scikit Learn
 
 🚀 **Projects**
 - **Phishing Website Detection (Python, ML)**: Developed a model to detect phishing websites, improving detection capabilities.
