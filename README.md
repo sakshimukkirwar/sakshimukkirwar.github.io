@@ -69,6 +69,8 @@ _Result:_ The model's false positive rates plummeted by 20%, sharpening the syst
 - Orchestrated ETL processes using Python scripts and Apache Airflow on Google Cloud Composer.
 - Conducted in-depth SQL-based data analyses to identify customer behavior patterns and preferences.
 - Extracted and visualized key performance metrics through Power BI and Tableau, enabling data-driven marketing strategies.
+
+
     ![vehicle_insurance](images/Vehicle_proj1.jpeg)
   _Result:_
   - Streamlined and organized the historical insurance data, allowing for advanced analytics.
