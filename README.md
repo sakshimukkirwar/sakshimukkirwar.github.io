@@ -1,11 +1,13 @@
 Hello Everyone! I am Sakshi, an experienced data engineer with a Master’s degree in Data Analytics from San Jose State University, specializing in transforming intricate data patterns into dynamic reports and dashboards to drive strategic business decisions.
 
-**Data is the new fuel, and my curiosity drives me to explore different ideas, solutions, and real-time problems revolving around the vast data pool. My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering.**
+Data is the new fuel, and my curiosity drives me to explore different ideass and real-time problems revolving around the vast data pool. 
+
+My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
 🎓 **Education**
-| Degree                               | Institution                     | Year          | Relevant Coursework                                |
-| ------------------------------------ | ------------------------------- | ------------- | -------------------------------------------------- |
-| Master of Science in Data Analytics  | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
+|          Degree            |           Institution          |         Year          |          Relevant Coursework                  |
+|          ------            |           -----------          |         ----          |          -------------------                  |
+| Master of Science in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
 | Bachelor in Engineering (Electronics and Telecommunication) | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
 
 💼 **Professional Experience**
