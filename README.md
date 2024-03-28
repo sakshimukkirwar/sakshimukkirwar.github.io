@@ -14,14 +14,17 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> My Professional Journey</h2>
 
-**Data Science Intern** | *Nuvento Inc. (Remote, US)* | March 2024 - Present
+**Data Science Intern** 
+| *Nuvento Inc. (Remote, US)* | March 2024 - Present
 - At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
 
-**ETL Developer, Data Analytics Pillar** | *Schlumberger (PITC India)* | Aug 2021 - Jan 2023
+**ETL Developer, Data Analytics Pillar**
+| *Schlumberger (Pune, India)* | Aug 2021 - Jan 2023
 - I embarked on a data analytics expedition with Business Intelligence Studio at Schlumberger, steering through the intricate world of SQL, ETL, data modelings and data visualizations.
 - With SQL as my compass and Power BI as my vessel, I navigated the creation of 50+ strategic  reports and dashboards, enhancing the organization's data-driven decision making by 40%.
 
-**Business Development Executive Intern** | *Edview (Pune, India)* | Aug 2020 - Nov 2020
+**Business Development Executive Intern** 
+| *Edview (Pune, India)* | Aug 2020 - Nov 2020
 - At Edview, I was the bridge between innovative educational products and real-time customers.
 - Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
 
@@ -30,25 +33,13 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 - 🤝 **Team Collaborator:** At Schlumberger, I was the keystone in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
 
-- 🌐 **Networking Aficionado:** My role at Schlumberger wasn't limited to technical prowess; it was also about weaving a network of fruitful relationships. I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
+- 💬 **Communication Virtuoso:** Whether it was interpreting complex data into actionable insights or crafting requirement understanding documents, my communication skills were crucial. They allowed me to convey intricate KPIs in a manner that was concise, significantly enhancing decision-making processes.
 
-- 💬 **Communication Virtuoso:** Whether it was interpreting complex data into actionable insights or crafting requirement understanding documents, my communication skills were crucial. They allowed me to convey intricate KPIs and dashboards in a manner that was clear and concise, significantly enhancing decision-making processes.
+- 🌐 **Networking Enthusiast:** My role at Schlumberger wasn't limited to technical prowess; rather I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
 
 - 👁️‍🗨️ **UI/UX Enhancer:** My quest for excellence led to the refinement of Power BI dashboard interfaces to align with stringent UI/UX standards, which elevated user engagement by 30%, turning raw data into compelling data visualizations that tell a story.
 
 - 🧩 **Problem Solver:** Faced with the challenge of inefficient data integration, I designed ETL pipelines that improved data processing and business intelligence capabilities, demonstrating my problem-solving prowess and my ability to turn data challenges into opportunities for growth.
-
-<details>
-<summary><h2 style="display:inline;">💼 My Professional Journey</h2></summary>
-
-#### ETL Developer, Data Analytics Pillar | *Schlumberger (PITC India)* | Aug 2021 - Jan 2023
-I ventured into the vast seas of data with Schlumberger, charting the depths with SQL and ETL. My hands crafted the pillars that supported over 50+ Power BI reports, each a beacon of insight into the dark waters of big data.
-
-#### Business Development Executive Intern | *Edview (Pune, India)* | Aug 2020 - Nov 2020
-In the bustling marketplace of Edview, I honed my craft in customer interaction and feedback assimilation, shaping products to better suit the tapestry of user needs.
-
-</details>
-
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
 
