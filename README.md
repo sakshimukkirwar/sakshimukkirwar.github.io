@@ -106,10 +106,6 @@ When not immersed in world of data, I turn to the serene world of watercolors. E
 
 The thrill of trying new things led me to the ice rink, where I've discovered the joy of ice skating. It’s a challenging yet exhilarating experience that teaches me about balance and the importance of stepping out of my comfort zone. It reminds me that to keep moving forward, sometimes you have to glide on thin ice! :)
 
-
-<h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px;"> 🔗 Connect with me </h2>
-
-
 <h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px; text-align:center;"> 🔗 Connect with me </h2>
 
 <div style="text-align:center;">
