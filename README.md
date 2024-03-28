@@ -109,5 +109,21 @@ The thrill of trying new things led me to the ice rink, where I've discovered th
 
 <h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px;"> 🔗 Connect with me </h2>
 
+<a href="https://www.instagram.com/sakshijainnnn" target="_blank">
+  <img src="URL_TO_INSTAGRAM_ICON_IMAGE" alt="Instagram" width="30" height="30" style="margin-right: 10px;">
+</a>
+
+<a href="https://www.linkedin.com/in/sakshimukkirwar" target="_blank">
+  <img src="URL_TO_LINKEDIN_ICON_IMAGE" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;">
+</a>
+
+<a href="https://github.com/sakshimukkirwar" target="_blank">
+  <img src="URL_TO_GITHUB_ICON_IMAGE" alt="GitHub" width="30" height="30" style="margin-right: 10px;">
+</a>
+
+<a href="mailto:sakshimanish.mukkirwar@sjsu.edu">
+  <img src="URL_TO_EMAIL_ICON_IMAGE" alt="Email" width="30" height="30" style="margin-right: 10px;">
+</a>
+
 - **LinkedIn:** [sakshimukkirwar](https://www.linkedin.com/in/sakshimukkirwar)
 - **GitHub:** [sakshimukkirwar](https://github.com/sakshimukkirwar)
