@@ -15,13 +15,15 @@ My academic and professional journey reflects a commitment to excellence and a d
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> My Professional Journey</h2>
 
 **Data Science Intern** | *Nuvento Inc. (Remote, US)* | March 2024 - Present
-At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
+- At Nuvento Inc., I am currently channeling my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
 
 **ETL Developer, Data Analytics Pillar** | *Schlumberger (PITC India)* | Aug 2021 - Jan 2023
-I embarked on a data analytics expedition with Business Intelligence Studio at Schlumberger, steering through the intricate world of SQL, ETL, data modelings and data visualizations. With SQL as my compass and Power BI as my vessel, I navigated the creation of 50+ strategic  reports and dashboards, enhancing the organization's data-driven decision making by 40%.
+- I embarked on a data analytics expedition with Business Intelligence Studio at Schlumberger, steering through the intricate world of SQL, ETL, data modelings and data visualizations.
+- With SQL as my compass and Power BI as my vessel, I navigated the creation of 50+ strategic  reports and dashboards, enhancing the organization's data-driven decision making by 40%.
 
 **Business Development Executive Intern** | *Edview (Pune, India)* | Aug 2020 - Nov 2020
-At Edview, I was the bridge between innovative educational products and real-time customers. Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
+- At Edview, I was the bridge between innovative educational products and real-time customers.
+- Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
@@ -36,9 +38,20 @@ At Edview, I was the bridge between innovative educational products and real-tim
 
 - 🧩 **Problem Solver:** Faced with the challenge of inefficient data integration, I designed ETL pipelines that improved data processing and business intelligence capabilities, demonstrating my problem-solving prowess and my ability to turn data challenges into opportunities for growth.
 
+<details>
+<summary><h2 style="display:inline;">💼 My Professional Journey</h2></summary>
+
+#### ETL Developer, Data Analytics Pillar | *Schlumberger (PITC India)* | Aug 2021 - Jan 2023
+I ventured into the vast seas of data with Schlumberger, charting the depths with SQL and ETL. My hands crafted the pillars that supported over 50+ Power BI reports, each a beacon of insight into the dark waters of big data.
+
+#### Business Development Executive Intern | *Edview (Pune, India)* | Aug 2020 - Nov 2020
+In the bustling marketplace of Edview, I honed my craft in customer interaction and feedback assimilation, shaping products to better suit the tapestry of user needs.
+
+</details>
 
 
-🚀 **Projects**
+<h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
+
 - **Phishing Website Detection (Python, ML)**: Developed a model to detect phishing websites, improving detection capabilities.
 - **Customer Segmentation with Yelp Dataset (Apache Kafka, Spark, Databricks, Tableau)**: Implemented real-time data ingestion and customer segmentation, enhancing personalized engagement.
 - **Cloud Analytics and Data Warehouse Implementation (AWS, Snowflake, Apache Airflow)**: Enhanced customer behavior insights through cloud analytics and automated data workflows.
