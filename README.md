@@ -4,7 +4,7 @@ Hello Everyone! I am Sakshi, an experienced data engineer with a Master’s degr
 
 My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
-**Find my resume [here]({{ site.https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_TFiMR-Lf8O/edit?pli=1}})!**
+Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_TFiMR-Lf8O/edit?pli=1)!
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Education</h2>
 
@@ -18,7 +18,7 @@ My academic and professional journey reflects a commitment to excellence and a d
 
 **Data Science Intern** 
 
-| *Nuvento Inc. (Remote, US)* | March 2024 - Present
+| *Nuvento Inc. (Remote, US)* | March 2024 - May 2024
 - At Nuvento Inc., I am currently utilizing my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
 
 **ETL Developer, Data Analytics Pillar**
