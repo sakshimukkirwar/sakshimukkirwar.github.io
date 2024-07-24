@@ -18,8 +18,9 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 
 **Data Science Intern** 
 
-| *Nuvento Inc. (Remote, US)* | March 2024 - May 2024
-- At Nuvento Inc., I am currently utilizing my analytical skills to transform educational outcomes. My primary responsibility is leveraging BI tools and SQL to architect a comprehensive edtech platform dashboard, offering schools the power to enact data-driven decisions via real-time student performance insights.
+| *Nuvento Inc. (Kansas, US)* | March 2024 - May 2024
+- At Nuvento Inc., I embarked on an exciting journey to create educational analytics dashboard for the Missouri State Schools. By creating Python flows and implementing Delta Load Stored Procedures on MS SQL Server, I boosted processing speed by 25% and ensured up-to-date data in master tables.
+- My work on developing data pipelines and contributing to the Educlimber dashboard significantly improved data visualization and provided stakeholders with deeper insights into student performance
 
 **ETL Developer, Data Analytics Pillar**
 
@@ -27,11 +28,11 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 - I embarked on a data analytics expedition with Business Intelligence Studio at Schlumberger, steering through the intricate world of SQL, ETL, data modelings and data visualizations.
 - With SQL as my compass and Power BI as my vessel, I navigated the creation of 50+ strategic  reports and dashboards, enhancing the organization's data-driven decision making by 40%.
 
-**Business Development Executive Intern** 
+**Data Analyst Intern** 
 
-| *Edview (Pune, India)* | Aug 2020 - Nov 2020
-- At Edview, I was the bridge between innovative educational products and real-time customers.
-- Through demonstrations and customer feedback, I iterated on MVPs, sharpening our product to perfection with each presentation.
+| *Prodcrew (Pune, India)* | Aug 2020 - Nov 2020
+-At Prodcrew, I utilized SQL and Tableau to analyze sentiment trends and visualize data, leading to a 20% improvement in customer engagement and operational efficiency.
+-I also refined product features for the MVP based on client interactions and feedback, ensuring our offerings met customer needs effectively.
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
