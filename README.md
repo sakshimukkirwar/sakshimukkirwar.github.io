@@ -31,8 +31,8 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 **Data Analyst Intern** 
 
 | *Prodcrew (Pune, India)* | Aug 2020 - Nov 2020
--At Prodcrew, I utilized SQL and Tableau to analyze sentiment trends and visualize data, leading to a 20% improvement in customer engagement and operational efficiency.
--I also refined product features for the MVP based on client interactions and feedback, ensuring our offerings met customer needs effectively.
+- At Prodcrew, I utilized SQL and Tableau to analyze sentiment trends and visualize data, leading to a 20% improvement in customer engagement and operational efficiency.
+- I also refined product features for the MVP based on client interactions and feedback, ensuring our offerings met customer needs effectively.
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
