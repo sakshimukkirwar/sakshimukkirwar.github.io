@@ -61,7 +61,7 @@ _Action:_
 - 
 <img src="images/ytvideos1.png" alt="youtube_videos_impact_analysis" width="400" height="350">
 <img src="images/ytvideos2.png" alt="youtube_videos_impact_analysis" width="400" height="350">
-<img src="images/ytvideos3.png" alt="youtube_videos_impact_analysis" width="400" height="3050">
+<img src="images/ytvideos3.png" alt="youtube_videos_impact_analysis" width="400" height="350">
 
 _Result:_ 
 - Delivered actionable insights through real-time visualizations, aiding in data-driven decision-making for content creation and optimization.
