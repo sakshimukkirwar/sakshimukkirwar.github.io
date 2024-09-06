@@ -49,6 +49,20 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
 
+**YouTube Videos Impact Analysis**
+
+_Challenge:_ Analyze the performance of YouTube videos across different categories, regions, and over time using various metrics like views, likes, dislikes, and comments.
+
+_Action:_ 
+- Developed an interactive **Streamlit** dashboard integrated with **Snowflake**, enabling real-time data analysis.
+- Implemented SQL queries to extract and transform data from multiple YouTube datasets, calculating video performance KPIs.
+- Created dynamic visualizations that allow users to analyze video performance by categories, regions, and the age of videos.
+- Provided filters and drill-down capabilities for users to view detailed performance metrics, including top-performing videos and channels based on views, likes, and comments.
+
+_Result:_ 
+- Delivered actionable insights through real-time visualizations, aiding in data-driven decision-making for content creation and optimization.
+- Improved data accessibility for stakeholders by developing a user-friendly dashboard with comprehensive filtering options and visual analytics.
+
 **Phishing Website Detection**
 
 ![phishing website detection](images/phishing-detection.jpeg)
