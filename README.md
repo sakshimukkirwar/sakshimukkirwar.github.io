@@ -1,6 +1,6 @@
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> About Me</h2>
 
-Hello Everyone! I am Sakshi, an experienced data engineer with a Master’s degree in Data Analytics from San Jose State University. I am dedicated to transform complex datasets into insightful business solutions using Python, SQL, data-warehousing, Snowflake and advanced data visualization techniques like Streamlit, Tableau and Power BI.
+Hello Everyone! I am Sakshi, an experienced data engineer with a Master’s degree in Data Analytics from San Jose State University. I am dedicated to transform complex datasets into insightful business solutions using Python, SQL, data-warehousing, and advanced data visualization techniques like Streamlit, Tableau and Power BI.
 
 My academic and professional journey reflects a commitment to excellence and a deep passion for data analytics and engineering. 
 
