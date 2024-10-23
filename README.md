@@ -58,10 +58,6 @@ _Action:_
 - Implemented SQL queries to extract and transform data from multiple YouTube datasets, calculating video performance KPIs.
 - Created dynamic visualizations that allow users to analyze video performance by categories, regions, and the age of videos.
 - Provided filters and drill-down capabilities for users to view detailed performance metrics, including top-performing videos and channels based on views, likes, and comments.
-- 
-<img src="images/ytvideos1.png" alt="youtube_videos_impact_analysis" width="400" height="350">
-<img src="images/ytvideos2.png" alt="youtube_videos_impact_analysis" width="400" height="350">
-<img src="images/ytvideos3.png" alt="youtube_videos_impact_analysis" width="400" height="350">
 
 _Result:_ 
 - Delivered actionable insights through real-time visualizations, aiding in data-driven decision-making for content creation and optimization.
