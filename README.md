@@ -34,6 +34,11 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 - At Prodcrew, I utilized SQL and Tableau to analyze sentiment trends and visualize data, leading to a 20% improvement in customer engagement and operational efficiency.
 - I also refined product features for the MVP based on client interactions and feedback, ensuring our offerings met customer needs effectively.
 
+**Technical Lead (Electrical Department)**
+
+| *Society od Automotive Engineers BAJA India* | May 2018-Mar 2019
+- Spearheaded the development and implementation of electrical systems and a data acquisition system for a competitive all-terrain vehicle, significantly enhancing vehicle diagnostics and performance under competition conditions.
+- Innovated real-time data monitoring solutions using Raspberry Pi, improving vehicle stability metrics and performance analysis through the integration of IMU, wheel speed, and suspension sensors, directly contributing to strategic vehicle adjustments and top performance rankings.
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
 
