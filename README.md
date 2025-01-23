@@ -48,8 +48,6 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 
 - 🌐 **Networking Enthusiast:** My role at Schlumberger wasn't limited to technical prowess; rather I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
 
-- 👁️‍🗨️ **UI/UX Enhancer:** My quest for excellence led to the refinement of Power BI dashboard interfaces to align with stringent UI/UX standards, which elevated user engagement by 30%, turning raw data into compelling data visualizations that tell a story.
-
 - 🧩 **Problem Solver:** Faced with the challenge of inefficient data integration, I designed ETL pipelines that improved data processing and business intelligence capabilities, demonstrating my problem-solving prowess and my ability to turn data challenges into opportunities for growth.
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
