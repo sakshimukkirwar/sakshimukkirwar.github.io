@@ -11,7 +11,7 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 | Degree | Institution | Year | Relevant Coursework |
 | ------ | ----------- | ---- | ------------------- |
 | M.S in Data Analytics | San Jose State University, San Jose CA | Jan 2023 - Dec 2024 | Data Visualization, DB Systems, Machine Learning, Big Data Technologies, Deep Learning |
-| B.E in Electronics and Telecommunication | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Data Structures, Object Oriented Programming |
+| B.E in Electronics and Telecommunication | Pune University, India | Aug 2017 - May 2021 | Computer Networks, Intoduction to JAVA, Data Structures |
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> My Professional Journey</h2>
