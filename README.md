@@ -111,6 +111,7 @@ _Result:_ Segmentation speed surged by 25%, assisting in a new era of targeted m
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
 
 - 🧠 **Continuous Learner:** I am a sponge, always eager to learn and absorb new knowledge, with a go-getter attitude that drives me to tackle challenges head-on and continuously improve.
+  
 - 🤝 **Team Collaborator:** At Schlumberger, I played a key role in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
 
 - 🌐 **Networking Enthusiast:** My role at Schlumberger wasn't limited to technical prowess; rather I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
