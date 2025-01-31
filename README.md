@@ -34,22 +34,6 @@ Find my resume [here](https://docs.google.com/document/d/1yP8CAwIZ_p0NB6HuXhPL1_
 - At Prodcrew, I utilized SQL and Tableau to analyze sentiment trends and visualize data, leading to a 20% improvement in customer engagement and operational efficiency.
 - I also refined product features for the MVP based on client interactions and feedback, ensuring our offerings met customer needs effectively.
 
-**Technical Lead (Electrical Department)**
-
-| *Society of Automotive Engineers BAJA India 2019* | May 2018 - Mar 2019
-- Spearheaded the development and implementation of electrical systems and a data acquisition system for a competitive all-terrain vehicle, significantly enhancing vehicle diagnostics and performance under competition conditions.
-- Innovated real-time data monitoring solutions using Raspberry Pi, improving vehicle stability metrics and performance analysis through the integration of IMU, wheel speed, and suspension sensors, directly contributing to strategic vehicle adjustments and top performance rankings.
-
-<h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
-
-- 🤝 **Team Collaborator:** At Schlumberger, I played a key role in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
-
-- 💬 **Communication Virtuoso:** Whether it was interpreting complex data into actionable insights or crafting requirement understanding documents, my communication skills were crucial. They allowed me to convey intricate KPIs in a manner that was concise, significantly enhancing decision-making processes.
-
-- 🌐 **Networking Enthusiast:** My role at Schlumberger wasn't limited to technical prowess; rather I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
-
-- 🧩 **Problem Solver:** Faced with the challenge of inefficient data integration, I designed ETL pipelines that improved data processing and business intelligence capabilities, demonstrating my problem-solving prowess and my ability to turn data challenges into opportunities for growth.
-
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
 
 **YouTube Videos Impact Analysis**
@@ -65,6 +49,17 @@ _Action:_
 _Result:_ 
 - Delivered actionable insights through real-time visualizations, aiding in data-driven decision-making for content creation and optimization.
 - Improved data accessibility for stakeholders by developing a user-friendly dashboard with comprehensive filtering options and visual analytics.
+Challenge: Provide users with a tool to track, categorize, and analyze personal financial data efficiently.
+
+**Personal Finance Manager**
+
+_Challenge:_ Provide users with a tool to track, categorize, and analyze personal financial data efficiently.
+_Action:_
+- Developed a Java-based application with CSV file persistence, automating financial tracking and reporting.
+- Implemented robust error handling and validation to ensure data integrity and reduce inaccuracies.
+- Optimized user interaction by creating automated summaries categorized by date, improving report generation efficiency.
+
+_Result:_ Boosted data accuracy and improved reporting efficiency by 23% through automated financial tracking.
 
 **Phishing Website Detection**
 
@@ -112,6 +107,15 @@ _Result:_ Segmentation speed surged by 25%, assisting in a new era of targeted m
   - Dynamic dashboards were developed in Power BI, featuring slicers and filters for interactive data exploration. Visualizations were designed to elucidate ChatGPT’s growth trends, using Power BI’s data modeling features to extract and present key insights.
     
   _Result:_ Gained an enhanced understanding of KPIs and reporting efficiency.
+
+<h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
+- 🧠 **Continuous Learner:** I am a sponge, always eager to learn and absorb new knowledge, with a go-getter attitude that drives me to tackle challenges head-on and continuously improve.
+
+- 🤝 **Team Collaborator:** At Schlumberger, I played a key role in a multidisciplinary team, bridging gaps between departments with my adept coordination skills.
+
+- 🌐 **Networking Enthusiast:** My role at Schlumberger wasn't limited to technical prowess; rather I engaged with stakeholders across the board, from technical leads to business analysts, fostering a culture of knowledge sharing and collaborative problem-solving.
+
+- 🧩 **Problem Solver:** Faced with the challenge of inefficient data integration, I designed ETL pipelines that improved data processing and business intelligence capabilities, demonstrating my problem-solving prowess and my ability to turn data challenges into opportunities for growth.
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Off the Grid: My World Beyond Data!✨</h2>
 
